@@ -27,6 +27,8 @@ Features of GitHub:
 - Projects
 
 ### Explain the difference between Git and GitHub
+Git is the VCS binary and GitHub is the cloud platform that stores repositories and offers additional SaaS tools.
+Git lets you work with one or more local branches and push changes to a remote repository. GitHub acts as the remote repository, which is accessed through a website or command-line tools.
 
 ### Describe a GitHub repository
 The directory, located at the top level of a working tree, where Git keeps all the history and metadata for a project.
