@@ -43,3 +43,9 @@ A series of linked commits that allow developers to work independently on and th
 A named reference to another Git repository. 
 
 ### Describe the GitHub flow
+- Create a branch
+- Make changes
+- Create a pull request
+- Address review comments
+- Merge pull request
+- Delete the branch
